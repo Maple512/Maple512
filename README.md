@@ -1,7 +1,8 @@
 ### Hi there 👋
-* 😀 I like code ([dotnet](https://github.com/dotnet) and [Angluar](https://github.com/angular))
-* 🌱 I’m currently learning [abp](https://github.com/abpframework/abp)
-* 🔭 I’m mostly working on the [mapleframework](https://github.com/mapleframework)
+* 😀 我喜欢敲代码
+* 🔭 我的主要技术栈：`net`
+* 🌱 我最近正在学习 [abp](https://github.com/abpframework/abp)
+* 📝 这是我的[博客](https://maple512.github.io/)
 
 <!--
 **Maple512/Maple512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
