@@ -1,6 +1,6 @@
 ### Hi there 👋
 * 😀 我喜欢敲代码
-* 🔭 我的主要技术栈：`net`
+* 🔭 我的主要技术栈：`net`  `angular` `electron`
 * 🌱 我最近正在学习 [abp](https://github.com/abpframework/abp)
 * 📝 这是我的[博客](https://maple512.github.io/)
 
