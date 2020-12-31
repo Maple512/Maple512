@@ -3,6 +3,7 @@
 * 🔭 我的主要技术栈：`net`  `angular` `electron`
 * 🌱 我最近正在学习 [abp](https://github.com/abpframework/abp)
 * 📝 这是我的[博客](https://maple512.github.io/)
+* 😄 热衷于编写各种开源框架的重复轮子
 
 <!--
 **Maple512/Maple512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
