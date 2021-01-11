@@ -1,9 +1,10 @@
 ### Hi there 👋
 * 😀 我喜欢敲代码
-* 🔭 我的主要技术栈：`net`  `angular` `electron`
+* 🛠 我的主要技术栈：`net`  `angular` `electron`
 * 🌱 我最近正在学习 [abp](https://github.com/abpframework/abp)
 * 📝 这是我的[博客](https://maple512.github.io/)
 * 😄 热衷于编写各种开源框架的重复轮子
+* 🔭 我最新在编写[branch](https://github.com/maple512/branch)框架的[文档](https://blog.maple512.net/tags/Branch%E6%A1%86%E6%9E%B6/)，欢迎试用
 
 <!--
 **Maple512/Maple512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
