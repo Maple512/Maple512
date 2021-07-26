@@ -1,7 +1,5 @@
 ### Hi there 👋
-* 😀 我喜欢敲代码
-* 🛠 我的主要技术栈：`net` `angular`
-* 😄 热衷于编写各种开源框架的重复轮子
+* 🛠 我的主要技术栈：`net`
 
 <!--
 **Maple512/Maple512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
